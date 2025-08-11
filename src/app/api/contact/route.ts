@@ -1,4 +1,8 @@
 import { type NextRequest, NextResponse } from "next/server"
+
+// Ensure this route runs on the Node.js runtime (not Edge) and is treated as dynamic
+export const runtime = "nodejs"
+export const dynamic = "force-dynamic"
 import { sendContactFormEmail } from "@/lib/emailService"
 
 export async function POST(request: NextRequest) {
