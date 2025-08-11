@@ -61,7 +61,7 @@ export default function EventRegistrationModal({ event, isOpen, onClose }: Event
 
       toast({
         title: "Registration Successful!",
-        description: `You have been registered for ${event.title}. Check your email for confirmation.`,
+        description: `You have been registered for ${event.title}.`,
       })
 
       // Reset form and close modal
