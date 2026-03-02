@@ -19,8 +19,6 @@
   <b>Built with ❤️ by <a href="https://jayeshjadhav.com">Jayesh Jadhav</a></b> — Tech Lead @ XFounders | Campus Ambassador, E-Cell IIT Bombay
 </p>
 
----
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 
 </div>
@@ -94,30 +92,6 @@ We're not just building a website — we're building a **movement**. A platform 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[Next.js 15] --> B[React 18]
-    B --> C[TypeScript]
-    C --> D[Tailwind CSS]
-    D --> E[shadcn/ui]
-    E --> F[Firebase]
-    F --> G[EmailJS]
-    G --> H[Render]
-
-    style A fill:#000,stroke:#fff,color:#fff
-    style B fill:#61DAFB,stroke:#000,color:#000
-    style C fill:#3178C6,stroke:#fff,color:#fff
-    style D fill:#06B6D4,stroke:#fff,color:#fff
-    style E fill:#18181B,stroke:#fff,color:#fff
-    style F fill:#FFCA28,stroke:#000,color:#000
-    style G fill:#FF6B6B,stroke:#fff,color:#fff
-    style H fill:#46E3B7,stroke:#000,color:#000
-```
-
-</div>
-
 | Layer | Technology |
 |:---:|:---|
 | ⚡ **Framework** | [Next.js 15](https://nextjs.org/) (App Router) |
@@ -125,7 +99,7 @@ graph LR
 | 🎨 **Styling** | [Tailwind CSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/) |
 | 🔥 **Backend** | [Firebase](https://firebase.google.com/) (Auth + Firestore) |
 | 📧 **Email** | [EmailJS](https://www.emailjs.com/) |
-| 🚀 **3D Graphics** | Three.js / React Three Fiber |
+| 🚀 **3D Graphics** | Three.js |
 | ☁️ **Deployment** | [Render](https://render.com/) |
 | 📦 **Package Manager** | pnpm |
 
@@ -245,15 +219,13 @@ pnpm start
 
 | Home Page | Team Section |
 |:---:|:---:|
-| ![Home](https://via.placeholder.com/400x250/1a1a2e/e94560?text=🏠+Home+Page) | ![Team](https://via.placeholder.com/400x250/16213e/0f3460?text=👥+Team+Section) |
+| ![Home](./public/home.png) | ![Team](./public/team.png) |
 
 | Events | Explore Hub |
 |:---:|:---:|
-| ![Events](https://via.placeholder.com/400x250/0f3460/e94560?text=📅+Events) | ![Explore](https://via.placeholder.com/400x250/533483/e94560?text=🔍+Explore+Hub) |
+| ![Events](./public/event.png) | ![Explore](./public/explore.png) |
 
 </div>
-
-> 💡 _Replace placeholders with actual screenshots of your deployed site_
 
 ---
 
@@ -309,8 +281,8 @@ Building the next generation of founders
 **Tech Lead** @ XFounders | **Campus Ambassador** @ E-Cell IIT Bombay
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jayeshjadhav.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jayeshjadhav.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayeshjadhav)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jayeshjadhav](https://www.linkedin.com/in/jayesh-jadhav-connect/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayeshJadhav28)
 
 </div>
 
